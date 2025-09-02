@@ -1,0 +1,17 @@
+package model;
+
+public enum Data
+{
+    EMAIL,
+    FIRST_NAME,
+    LAST_NAME,
+    ROOM_NUMBER,
+    ROOM_PRICE,
+    ROOM_TYP,
+    CHECKIN_DATE,
+    CHECKOUT_DATE,
+    ADDING_ANOTHER_ROOM,
+    BOOKING_A_ROOM,
+    ACCOUNT_QUESTION,
+    BOOK_A_SUGGESTION;
+}
